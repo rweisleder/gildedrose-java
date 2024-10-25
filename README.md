@@ -1,5 +1,7 @@
 # Gilded Rose starting position in Java
 
+Forked from https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/Java
+
 ## Run the TextTest Fixture from Command-Line
 
 ```
