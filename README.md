@@ -2,6 +2,8 @@
 
 Forked from https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/Java
 
+Requirements: https://github.com/emilybache/GildedRose-Refactoring-Kata/blob/main/GildedRoseRequirements.md
+
 ## Run the TextTest Fixture from Command-Line
 
 ```
